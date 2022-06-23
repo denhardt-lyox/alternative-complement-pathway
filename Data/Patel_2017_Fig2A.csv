@@ -1,0 +1,9 @@
+Inhibitor,Conc_ugmL,ConcUnit,Conc_uM,InhibitionHemolysis,Units
+Eculizumab,0,ug/mL,0,0,%
+Eculizumab,6.25,ug/mL,0.04,0,%
+Eculizumab,12.5,ug/mL,0.08,0,%
+Eculizumab,25,ug/mL,0.17,2.63,%
+Eculizumab,50,ug/mL,0.34,19.67,%
+Eculizumab,100,ug/mL,0.68,23.68,%
+Eculizumab,200,ug/mL,1.35,30.07,%
+Eculizumab,400,ug/mL,2.7,37.6,%

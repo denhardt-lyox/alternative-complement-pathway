@@ -1,0 +1,31 @@
+Responder Profile,Age/Sex,Disease phenotype,Length of Dx (in months),Indication for treatment with eculizumab,Pre-tx Hb (g/dL),Post-tx Hb (g/dL),Pre-tx LDH (U/L),Post-tx LDH (U/L),Pre-tx Retic (K/cu mm),Post-tx Retic (K/cu mm),Pre-tx RBC clone size (Percent),Post-tx RBC clone size (Percent),Pre-tx Gran clone size (Percent),Post-tx Gra clone size (Percent)
+(A),33 M,Classical,13,Anemia from hemolysis,8.6,17.4,1670,274,NaN,133.5,46,6.9,87,24
+(A),31 M,AA/PNH,82,"Thrombosis, anemia from hemolysis",7.4,15.6,771,311,82.6,150.7,73,11.9,99,99
+(A),28 M,Classical,4,"Thrombosis, anemia from hemolysis",10.1,16.2,888,261,110,109.7,51,14,98,99
+(A),36 M,Classical,192,"PNH sx, Thrombosis, anemia from hemolysis",8.4,15.9,3490,135,324.3,101.1,63,6,99,23
+(B),27 M,Classical,2,"Anemia from hemolysis, PNH sx",8.9,12.7,6218,329,180,164.6,6.66,49,73,87
+(B),35 F,Classical,84,"Anemia from hemolysis, PNH sx",6.6,10.3,NaN,196,20,NaN,54,NaN,99,NaN
+(B),56 F,AA/PNH,288,"Anemia from hemolysis, PNH sx",8.4,8.9,2042,223,101.5,79.5,25,44,85,96
+(B),21 M,Classical,60,"Anemia from hemolysis, PNH sx",9.6,12,1969,279,208.9,162.3,64,NaN,96,NaN
+(B),31 M,Classical,168,"Thrombosis, anemia from hemolysis",11,12.8,1591,209,129.2,129.8,83,100,99,99
+(B),64 F,Classical,108,"Anemia from hemolysis, PNH sx",9.2,11.7,1583,247,161.4,86.5,86,99.7,87,75.9
+(B),24 F2,AA/PNH,36,Thrombosis,9.9,14.7,157,168,8.2,0.9,1,0,65,0
+(B),32 M,Classical,13,"Anemia from hemolysis, PNH sx",12.1,12.6,2555,240,299.5,325.1,28,NaN,88,NaN
+(B),22 F,Classical,122,"Anemia from hemolysis, PNH sx",5.8,10.9,924,195,266.1,179.8,77,94,92,99
+(B),18 F,Classical,26,"Anemia from hemolysis, PNH sx",6.3,10,1760,234,219.8,179.8,13,95,55,99
+(B),28 F,AA/PNH,12,"Anemia from hemolysis, PNH sx",11.1,9.3,529,180,69.2,68,34,NaN,72,NaN
+(B),48 M,Classical,36,"Anemia from hemolysis, PNH sx",6.8,10.3,2343,317,190.1,160.4,38,68,41,62
+(B),47 F,Classical,2,"Thrombosis, anemia from hemolysis, PNH sx",10,10.9,1440,268,160.9,5.1,43,55,90,91
+(B),18 F,Classical,4,Anemia from hemolysis,5.1,10,1767,NaN,169.7,NaN,37,66,93,98
+(B),48 M,Classical,204,Anemia from hemolysis,7.6,10.5,4835,277,451.8,321.8,42,99,97,96
+(B),57 M,Classical,150,Anemia from hemolysis,11.1,10.1,1537,NaN,174,NaN,34,NaN,90,NaN
+(C),77 F,AA/PNH,9,Anemia from hemolysis,7.8,11.4,1085,303,68.1,113.9,8,7.91,86,59
+(C),40 F,AA/PNH,12,Thrombosis,8.2,8.2,622,252,112.2,114.8,9,97,66,97
+(C),16 F,Classical,24,"Thrombosis, anemia from hemolysis",9.2,9.8,282,362,251.1,NaN,76,NaN,97,NaN
+(C),28 M,Classical,1,"Anemia from hemolysis, PNH sx",8.2,7.9,2023,1637,NaN,NaN,13,NaN,71,NaN
+(C),63 M,AA/PNH,36,"Anemia from hemolysis, PNH sx",8.5,8.5,417,278,32.6,28,7,4,58,72
+(C),35 M,AA/PNH,2,"Thrombosis, anemia from hemolysis",10,7.6,NaN,919,NaN,84,80,4.51,75,92
+(C),46 F,Classical,3,"Thrombosis, anemia from hemolysis",8.1,9.1,1551,200,139.7,222.9,32,50,83,94
+(C),39 M,Classical,72,Thrombosis,9.9,8.1,NaN,185,351.4,340,99,86,99,100
+(C),63 M,Classical,14,"Thrombosis, anemia from hemolysis",10.4,10.9,981,189,142.8,187.3,16,341,78,96
+(C),51 F,AA/PNH,4,"Thrombosis, anemia from hemolysis",9.1,11.7,568,222,151.1,106.3,11,3.2,56,18

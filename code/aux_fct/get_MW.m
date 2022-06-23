@@ -1,0 +1,34 @@
+function MW = get_MW()
+
+% Molecular weights
+MW.C3 = 185000;
+MW.C3a = 9000;
+MW.C3b = 176000;
+MW.iC3b = 67000+45000+75000;
+MW.C3dg = 38000;
+
+MW.C5  = 191000;
+MW.C5a = 11200;
+MW.C5b = 180000;
+
+MW.C6 = 120000;
+MW.C7 = 110000;
+MW.C8 = 151000;
+MW.C9 = 71000;
+
+MW.Ba  = 30000;
+MW.Bb  = 63000;
+MW.B  = 93000;
+MW.D  = 24000;
+
+MW.I  = 88000;
+MW.P  = 53000;
+MW.H  = 155000;
+MW.CR1   = 190000;
+MW.DAF   = 70000;
+MW.Vn    = 83000;
+MW.Cn    = 80000;
+MW.CD59  = 18000;
+
+
+end

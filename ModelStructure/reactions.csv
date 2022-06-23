@@ -1,0 +1,228 @@
+Reaction
+C3 -> [C3(H2O) fluid]                                                                           
+[C3(H2O) fluid] + B <-> [C3(H2O)B fluid]                                                        
+[C3(H2O) fluid] + H <-> [C3(H2O)H fluid]                                                        
+[C3(H2O) fluid] + CR1 <-> [C3(H2O)CR1 fluid]                                                    
+[C3(H2O)Bb fluid] -> [C3(H2O) fluid] + Bb                                                       
+[C3(H2O)BbH fluid] -> H + Bb + [C3(H2O) fluid]                                                  
+[C3(H2O)B fluid] + D -> [C3(H2O)Bb fluid] + Ba + D                                              
+[C3(H2O)Bb fluid] + H -> [C3(H2O)BbH fluid]                                                     
+nfC3b -> [C3b fluid]                                                                            
+nhC3b -> [C3b fluid]                                                                            
+[C3b fluid] + B <-> [C3bB fluid]                                                                
+[C3b fluid] + H <-> [C3bH fluid]                                                                
+[C3b fluid] + CR1 <-> [C3bCR1 fluid]                                                            
+[C3bBb fluid] -> Bb + [C3b fluid]                                                               
+[C3bBbH fluid] -> H + Bb + [C3b fluid]                                                          
+[C3bBbCR1 fluid] -> CR1 + Bb + [C3b fluid]                                                      
+[C3b fluid] + [C3bBb host] <-> [C3bBbC3b host]                                                  
+[C3bBbC3bCR1 host] -> CR1 + [C3b fluid] + [C3b host] + Bb                                       
+[C3bBbC3bDAF host] -> DAF + [C3b fluid] + [C3b host] + Bb                                       
+[C3bBbC3bH host] -> H + [C3b fluid] + [C3b host] + Bb                                           
+[C3bB fluid] + D -> [C3bBb fluid] + Ba + D                                                      
+[C3bBb fluid] + H -> [C3bBbH fluid]                                                             
+CR1 + [C3bBb fluid] -> [C3bBbCR1 fluid]                                                         
+C3 -> C3a + nfC3b                                                                               
+C3 + [C3bBb fluid] -> C3a + nfC3b + [C3bBb fluid]                                               
+nfC3b + [Surface host] -> [C3b host]                                                            
+[C3bBbP host] -> P + [C3b host] + Bb                                                            
+C3 + [C3bBbP host] -> C3a + nhC3b + [C3bBbP host]                                               
+[C3bBbP host] + nhC3b -> [C3bBbC3bP host]                                                       
+[C3bBP host] + D -> [C3bBbP host] + Ba + D                                                      
+[C3bBb host] + P -> [C3bBbP host]                                                               
+[C3bBbP host] + [C3b fluid] -> [C3bBbC3bP host]                                                 
+[iC3b host] + P <-> [iC3bP host]                                                                
+[C3bBbC3b host] + P <-> [C3bBbC3bP host]                                                        
+[C3bBbC3bPC5 host] -> [C3bBbC3bC5 host] + P                                                     
+[C3bBbC3bPC5b host] -> [C3bBbC3bC5b host] + P                                                   
+[C3bBbC3bPC5bC6 host] -> [C3bBbC3bC5bC6 host] + P                                               
+[C3bBbC3bPC5bC6 host] + C7 -> [C3bBbC3bP host] + [hC5b7 fluid]                                  
+[C3bBbC3bPC5b host] -> [C3bBbC3bP host] + C5b                                                   
+[C3bBbC3bP host] + C5 -> C5a + [C3bBbC3bPC5b host]                                              
+[C3bBbC3bPC5b host] + C6 <-> [C3bBbC3bPC5bC6 host]                                              
+C3 + [C3bBb host] -> C3a + nhC3b + [C3bBb host]                                                 
+nhC3b + [Surface host] -> [C3b host]                                                            
+nhC3b + [C3bBb host] -> [C3bBbC3b host]                                                         
+[hC5b7 fluid] + [Surface host] + [Surface host] + [Surface host] + [Surface host] -> [C5b7 host]
+[C3b host] + CR1 <-> [C3bCR1 host]                                                              
+[C3b host] + H <-> [C3bH host]                                                                  
+[C3b host] + B <-> [C3bB host]                                                                  
+[C3bBbH host] -> H + Bb + [C3b host]                                                            
+[C3bBb host] -> Bb + [C3b host]                                                                 
+[C3bBbCR1 host] -> CR1 + Bb + [C3b host]                                                        
+[C3bBbDAF host] -> DAF + Bb + [C3b host]                                                        
+[C3bBbC3b host] -> Bb + [C3b host] + [C3b fluid]                                                
+[C3bB host] + D -> [C3bBb host] + Ba + D                                                        
+[C3bBb host] + H -> [C3bBbH host]                                                               
+[C3bBb host] + CR1 -> [C3bBbCR1 host]                                                           
+[C3bBb host] + DAF -> [C3bBbDAF host]                                                           
+[C3bCR1 host] + I -> CR1 + [iC3b host] + I                                                      
+[iC3b host] + CR1 <-> [iC3bCR1 host]                                                            
+[C3bH host] + I -> H + [iC3b host] + I                                                          
+[iC3bCR1 host] + I -> CR1 + [C3dg host] + I                                                     
+[C3bH fluid] + I -> H + [iC3b fluid] + I                                                        
+[iC3b fluid] + CR1 <-> [iC3bCR1 fluid]                                                          
+[C3bCR1 fluid] + I -> CR1 + [iC3b fluid] + I                                                    
+[iC3bCR1 fluid] + I -> CR1 + [C3dg fluid] + I                                                   
+[C3bBbC3b host] + CR1 -> [C3bBbC3bCR1 host]                                                     
+[C3bBbC3b host] + DAF -> [C3bBbC3bDAF host]                                                     
+[C3bBbC3b host] + H -> [C3bBbC3bH host]                                                         
+[C3bBbC3bC5b host] -> C5b + [C3bBbC3b host]                                                     
+[C3bBbC3bC5bC6 host] + C7 -> [C3bBbC3b host] + [hC5b7 fluid]                                    
+[C3bBbC3b host] + C5 -> C5a + [C3bBbC3bC5b host]                                                
+[C3bBbC3bC5b host] + C6 <-> [C3bBbC3bC5bC6 host]                                                
+[hC5b7 fluid] -> [C5b7 micelle]                                                                 
+[hC5b7 fluid] + C8 <-> [C5b8 fluid]                                                             
+[hC5b7 fluid] + Cn <-> [CnC5b7 fluid]                                                           
+[hC5b7 fluid] + Vn <-> [VnC5b7 fluid]                                                           
+[C5b7 host] + C8 -> [C5b8 host]                                                                 
+[C5b8 host] + C9 -> [C5b9_1 host]                                                               
+[C5b9_1 host] + C9 -> [C5b9_2 host]                                                             
+[C5b9_2 host] + C9 -> [C5b9_3 host]                                                             
+[C5b9_3 host] + C9 -> [C5b9_4 host]                                                             
+[C5b9_4 host] + C9 -> [C5b9_5 host]                                                             
+[C5b9_5 host] + C9 -> [C5b9_6 host]                                                             
+[C5b9_6 host] + C9 -> [C5b9_7 host]                                                             
+[C5b9_7 host] + C9 -> [C5b9_8 host]                                                             
+[C5b9_8 host] + C9 -> [C5b9_9 host]                                                             
+[C5b9_9 host] + C9 -> [C5b9_10 host]                                                            
+[C5b9_10 host] + C9 -> [C5b9_11 host]                                                           
+[C5b9_11 host] + C9 -> [C5b9_12 host]                                                           
+[C5b9_12 host] + C9 -> [C5b9_13 host]                                                           
+[C5b9_13 host] + C9 -> [C5b9_14 host]                                                           
+[C5b9_14 host] + C9 -> [C5b9_15 host]                                                           
+[C5b9_15 host] + C9 -> [C5b9_16 host]                                                           
+[C5b9_16 host] + C9 -> [C5b9_17 host]                                                           
+[C5b9_17 host] + C9 -> [MAC host]                                                               
+[C5b9_1 host] + CD59 <-> [CD59C5b9_1 host]                                                      
+[VnC5b7 fluid] + C8 <-> [VnC5b8 fluid]                                                          
+[VnC5b8 fluid] + C9 <-> [VnC5b9_1 fluid]                                                        
+[CnC5b7 fluid] + C8 <-> [CnC5b8 fluid]                                                          
+[CnC5b8 fluid] + C9 <-> [CnC5b9_1 fluid]                                                        
+[C5b8 fluid] + C9 <-> [C5b9_1 fluid]                                                            
+[C3bBbH fluid] -> [C3bBb fluid] + H                                                             
+[C3bBbH host] -> [C3bBb host] + H                                                               
+[C3bBbC3bH host] -> [C3bBbC3b host] + H                                                         
+[C3bBbCR1 fluid] -> CR1 + [C3bBb fluid]                                                         
+[C3bBbCR1 host] -> [C3bBb host] + CR1
+[C3bBbC3bCR1 host] -> [C3bBbC3b host] + CR1
+[C3bBbDAF host] -> [C3bBb host] + DAF                                                           
+[C3bBbC3bDAF host] -> [C3bBbC3b host] + DAF                                                     
+[C3bBbP host] -> [C3bBb host] + P                                                               
+[C3bBbC3bP host] -> Bb + [C3b host] + [C3b fluid] + P                                           
+null -> [Surface host]                                                                          
+[Surface host] -> null                                                                          
+null -> C3
+null -> C5
+null -> C6
+null -> C7
+null -> C8
+null -> C9
+null -> B                                                                                       
+null -> D                                                                                       
+null -> P                                                                                       
+null -> I                                                                                       
+null -> H                                                                                       
+null -> Vn                                                                                      
+null -> Cn                                                                                      
+null -> CR1
+null -> DAF                                                                                     
+null -> CD59
+C3 -> null                                                                                      
+C5 -> null                                                                                      
+C6 -> null                                                                                      
+C7 -> null                                                                                      
+C8 -> null                                                                                      
+C9 -> null                                                                                      
+B -> null                                                                                       
+D -> null                                                                                       
+P -> null                                                                                       
+I -> null                                                                                       
+H -> null                                                                                       
+Vn -> null                                                                                      
+Cn -> null                                                                                      
+CR1 -> null                                                                                     
+CD59 -> null                                                                                    
+DAF -> null                                                                                     
+[C3(H2O) fluid] -> null                                                                         
+[C3(H2O)B fluid] -> null                                                                        
+[C3(H2O)H fluid] -> null                                                                        
+[C3(H2O)CR1 fluid] -> null                                                                      
+[C3(H2O)Bb fluid] -> null                                                                       
+[C3(H2O)BbH fluid] -> null                                                                      
+[C3b fluid] -> null                                                                             
+[C3bB fluid] -> null                                                                            
+[C3bH fluid] -> null                                                                            
+[C3bCR1 fluid] -> null                                                                          
+[C3bBb fluid] -> null                                                                           
+[C3bBbH fluid] -> null                                                                          
+[C3bBbCR1 fluid] -> null                                                                        
+nfC3b -> null                                                                                   
+nhC3b -> null                                                                                   
+Ba -> null                                                                                      
+Bb -> null                                                                                      
+C3a -> null                                                                                     
+C5a -> null                                                                                     
+[hC5b7 fluid] -> null                                                                           
+[iC3b fluid] -> null                                                                            
+[iC3bCR1 fluid] -> null                                                                         
+[C3dg fluid] -> null                                                                            
+[C5b7 micelle] -> null                                                                          
+[C5b8 fluid] -> null                                                                            
+[CnC5b7 fluid] -> null                                                                          
+[VnC5b7 fluid] -> null                                                                          
+[VnC5b8 fluid] -> null                                                                          
+[VnC5b9_1 fluid] -> null                                                                        
+[CnC5b8 fluid] -> null                                                                          
+[CnC5b9_1 fluid] -> null                                                                        
+[C5b9_1 fluid] -> null                                                                          
+[C3bBb host] -> [Surface host]                                                                  
+[C3bBbC3b host] -> [Surface host]                                                               
+[C3bBbC3bCR1 host] -> [Surface host]                                                            
+[C3b host] -> [Surface host]                                                                    
+[C3bBbC3bDAF host] -> [Surface host]                                                            
+[C3bBbC3bH host] -> [Surface host]                                                              
+[C3bBbP host] -> [Surface host]                                                                 
+[C3bBbC3bP host] -> [Surface host]                                                              
+[C3bBP host] -> [Surface host]                                                                  
+[iC3b host] -> [Surface host]                                                                   
+[iC3bP host] -> [Surface host]                                                                  
+[C3bBbC3bPC5 host] -> [Surface host]                                                            
+[C3bBbC3bC5 host] -> [Surface host]                                                             
+[C3bBbC3bPC5b host] -> [Surface host]                                                           
+[C3bBbC3bC5b host] -> [Surface host]                                                            
+[C3bBbC3bPC5bC6 host] -> [Surface host]                                                         
+[C3bBbC3bC5bC6 host] -> [Surface host]                                                          
+[C5b7 host] -> [Surface host]                                                                   
+[C3bCR1 host] -> [Surface host]                                                                 
+[C3bH host] -> [Surface host]                                                                   
+[C3bB host] -> [Surface host]                                                                   
+[C3bBbH host] -> [Surface host]                                                                 
+[C3bBbCR1 host] -> [Surface host]                                                               
+[C3bBbDAF host] -> [Surface host]                                                               
+[iC3bCR1 host] -> [Surface host]                                                                
+[C3dg host] -> [Surface host]                                                                   
+[C5b8 host] -> [Surface host]                                                                   
+[C5b9_1 host] -> [Surface host]                                                                 
+[C5b9_2 host] -> [Surface host]                                                                 
+[C5b9_3 host] -> [Surface host]                                                                 
+[C5b9_4 host] -> [Surface host]                                                                 
+[C5b9_5 host] -> [Surface host]                                                                 
+[C5b9_6 host] -> [Surface host]                                                                 
+[C5b9_7 host] -> [Surface host]                                                                 
+[C5b9_8 host] -> [Surface host]                                                                 
+[C5b9_9 host] -> [Surface host]                                                                 
+[C5b9_10 host] -> [Surface host]                                                                
+[C5b9_11 host] -> [Surface host]                                                                
+[C5b9_12 host] -> [Surface host]                                                                
+[C5b9_13 host] -> [Surface host]                                                                
+[C5b9_14 host] -> [Surface host]                                                                
+[C5b9_15 host] -> [Surface host]                                                                
+[C5b9_16 host] -> [Surface host]                                                                
+[C5b9_17 host] -> [Surface host]                                                                
+[MAC host] -> [Surface host]                                                                    
+[CD59C5b9_1 host] -> [Surface host]                                                             
+C5drug -> null                                                                                  
+[C5drug C5] -> null                                                                             
+C5 + C5drug <-> [C5drug C5]                                                                     
+C5 + Ecu <-> [Ecu C5]                                                                           

@@ -1,0 +1,6 @@
+function REACTION_PARAMETER_EXT(model)
+
+k_m_C3bBbDAF         = addparameter(model, 'k_m_C3bBbDAF', 1.2E-3,...
+                        'notes', 'Dissociation of DAF complexes on cell', 'ValueUnits', '1/second');   
+k_m_C3bBbC3bP         = addparameter(model, 'k_m_C3bBbC3bP', 5.70E-04,...
+                        'notes', 'Decay of C3bBbC3bP on cell', 'ValueUnits', '1/second'); 
